@@ -1,0 +1,13 @@
+package org.example.demomodule5app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoModule5AppApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoModule5AppApplication.class, args);
+    }
+
+}

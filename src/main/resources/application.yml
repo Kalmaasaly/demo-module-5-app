@@ -1,0 +1,4 @@
+spring:
+ application:
+  name:demo-module-5-app
+  environment:default
